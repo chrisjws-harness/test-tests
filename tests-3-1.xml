@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite name="SampleTestSuite" tests="4" failures="1" errors="0" skipped="0" time="0.003">
-    <testcase classname="com.example.TestClass" name="testMethod1" time="0.001">
-        <!-- This test passed -->
-    </testcase>
-    <testcase classname="com.example.TestClass" name="testMethod2" time="0.001">
-        <!-- This test passed -->
-    </testcase>
-    <testcase classname="com.example.TestClass" name="testMethod3" time="0.001">
-        <!-- This test passed -->
-    </testcase>
+    <testcase classname="com.example.TestClass" name="testMethod1" time="0.001"/>
+    <testcase classname="com.example.TestClass" name="testMethod2" time="0.001"/>
+    <testcase classname="com.example.TestClass" name="testMethod3" time="0.001"/>
     <testcase classname="com.example.TestClass" name="testMethod4" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod4(TestClass.java:25)
         </failure>
     </testcase>

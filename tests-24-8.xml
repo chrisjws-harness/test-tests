@@ -25,42 +25,42 @@
     <testcase classname="com.example.TestClass" name="testMethod23" time="0.001"/>
     <testcase classname="com.example.TestClass" name="testMethod24" time="0.001"/>
     <testcase classname="com.example.TestClass" name="testMethod25" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod25(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod26" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod26(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod27" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod27(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod28" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod28(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod29" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod29(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod30" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod30(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod31" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod31(TestClass.java:25)
         </failure>
     </testcase>
     <testcase classname="com.example.TestClass" name="testMethod32" time="0.001">
-        <failure message="expected:<true> but was:<false>">java.lang.AssertionError: expected:<true> but was:<false>
+        <failure message="expected:&lt;true&gt; but was:&lt;false&gt;">java.lang.AssertionError: expected:&lt;true&gt; but was:&lt;false&gt;
             at com.example.TestClass.testMethod32(TestClass.java:25)
         </failure>
     </testcase>

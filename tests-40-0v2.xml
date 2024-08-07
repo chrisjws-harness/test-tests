@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SampleTestSuite" tests="40" failures="0" errors="0" skipped="0" time="0.040">
+    <testcase classname="com.example.UserServiceTest" name="testCreateUser" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testUpdateUser" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testDeleteUser" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testFindUserById" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testFindAllUsers" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testFindUserByUsername" time="0.001"/>
+    <testcase classname="com.example.UserServiceTest" name="testUserAuthentication" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testCreateOrder" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testUpdateOrder" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testDeleteOrder" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testFindOrderById" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testFindAllOrders" time="0.001"/>
+    <testcase classname="com.example.OrderServiceTest" name="testOrderStatusChange" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testCreateProduct" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testUpdateProduct" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testDeleteProduct" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testFindProductById" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testFindAllProducts" time="0.001"/>
+    <testcase classname="com.example.ProductServiceTest" name="testProductAvailability" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testAddInventory" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testUpdateInventory" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testDeleteInventory" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testFindInventoryById" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testFindAllInventories" time="0.001"/>
+    <testcase classname="com.example.InventoryServiceTest" name="testInventoryStockLevel" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testProcessPayment" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testValidatePayment" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testRefundPayment" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testFindPaymentById" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testFindAllPayments" time="0.001"/>
+    <testcase classname="com.example.PaymentServiceTest" name="testPaymentStatus" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testCreateShipment" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testUpdateShipment" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testDeleteShipment" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testFindShipmentById" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testFindAllShipments" time="0.001"/>
+    <testcase classname="com.example.ShippingServiceTest" name="testTrackShipment" time="0.001"/>
+    <testcase classname="com.example.NotificationServiceTest" name="testSendNotification" time="0.001"/>
+    <testcase classname="com.example.NotificationServiceTest" name="testNotificationStatus" time="0.001"/>
+    <testcase classname="com.example.NotificationServiceTest" name="testFindAllNotifications" time="0.001"/>
+</testsuite>
